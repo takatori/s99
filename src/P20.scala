@@ -22,11 +22,4 @@ object P20 {
       else (list.tail, list.head)
   }
 
-  def removeAtA[T](n: Int, ls: List[T]): (List[T],T) = {
-    ls.splitAt(n) match {
-      case (Nil, _) if n < 0 => throw new NoSuchElementException
-      case (pre, e :: post) => (pre ::: post, e)
-      case (pre, Nill) => throw new NoSuchElementException
-    }
-  }
 }
