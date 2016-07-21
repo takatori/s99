@@ -1,4 +1,4 @@
-package P02
+package com.takatori.s99
 
 /** (*) Find the last but one element of a list.
   *

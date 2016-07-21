@@ -1,4 +1,4 @@
-package P17
+package com.takatori.s99
 
 /** P17
   * (*) Split a list into two parts.

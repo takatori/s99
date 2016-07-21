@@ -1,4 +1,4 @@
-package P12
+package com.takatori.s99
 
 /** P12
   * (**) Decode a run-length encoded list.

@@ -1,4 +1,4 @@
-package P14
+package com.takatori.s99
 
 /** P14
   *  (*) Duplicate the elements of a list.

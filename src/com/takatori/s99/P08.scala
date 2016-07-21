@@ -1,4 +1,4 @@
-package P08
+package com.takatori.s99
 
 /** P08
   * (**) Eliminate consecutive duplicates of list elements.

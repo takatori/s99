@@ -1,4 +1,4 @@
-package P23
+package com.takatori.s99
 
 import scala.util.Random
 

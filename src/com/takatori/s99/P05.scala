@@ -1,4 +1,4 @@
-package P05
+package com.takatori.s99
 
 /** P05
   * (*) Reverse a list.

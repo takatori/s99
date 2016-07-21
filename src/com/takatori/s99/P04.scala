@@ -1,3 +1,5 @@
+package com.takatori.s99
+
 /** P04
   * (*) Find the number of elements of a list.
   *

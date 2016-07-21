@@ -1,4 +1,4 @@
-package P09
+package com.takatori.s99
 
 /** P09
   * (**) Pack consecutive duplicates of list elements into sublists.

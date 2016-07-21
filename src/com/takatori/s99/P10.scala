@@ -1,4 +1,4 @@
-package P10
+package com.takatori.s99
 
 /** P10
   * (*) Run-length encoding of a list.

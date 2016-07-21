@@ -1,4 +1,4 @@
-package P16
+package com.takatori.s99
 
 /** P16
   * (**) Drop every Nth element from a list.

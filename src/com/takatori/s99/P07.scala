@@ -1,4 +1,4 @@
-package P07
+package com.takatori.s99
 
 /** P07
   * (**) Flatten a nested list structure.

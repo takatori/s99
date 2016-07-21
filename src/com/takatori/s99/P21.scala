@@ -1,4 +1,4 @@
-package P21
+package com.takatori.s99
 
 /** P21
   * (*) Insert an element at a given position into a list.

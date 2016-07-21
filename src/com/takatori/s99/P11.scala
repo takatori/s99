@@ -1,4 +1,4 @@
-package  P11
+package com.takatori.s99
 
 /** P11
   * (*) Modified run-length encoding.

@@ -1,4 +1,4 @@
-package P19
+package com.takatori.s99
 
 /** P19
   * (**) Rotate a list N places to the left.

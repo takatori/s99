@@ -1,4 +1,4 @@
-package P20
+package com.takatori.s99
 
 /** P20
   * (*) Remove the Kth element from a list.

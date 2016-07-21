@@ -1,4 +1,4 @@
-package P22
+package com.takatori.s99
 
 /** P22
   * (*) Create a list containing all integers within a given range.

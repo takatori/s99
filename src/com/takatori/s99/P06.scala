@@ -1,4 +1,4 @@
-package P06
+package com.takatori.s99
 
 /** P06
   * (*) Find out whether a list is a palindrome.

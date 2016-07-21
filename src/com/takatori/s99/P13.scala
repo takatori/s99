@@ -1,4 +1,4 @@
-package P13
+package com.takatori.s99
 
 /** P13
   * (**) Run-length encoding of a list (direct solution).

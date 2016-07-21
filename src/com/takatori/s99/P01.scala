@@ -1,4 +1,4 @@
-package P01
+package com.takatori.s99
 
 /**  P01
   * (*) Find the latest element of a list.

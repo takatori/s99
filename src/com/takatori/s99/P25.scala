@@ -1,4 +1,4 @@
-package P25
+package com.takatori.s99
 
 /** P25
   * (*) Generate a random permutation of the elements of a list.

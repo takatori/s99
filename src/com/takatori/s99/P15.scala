@@ -1,4 +1,4 @@
-package P15
+package com.takatori.s99
 
 /** P15
   * (**) Duplicate the elements of a list a given number of times.

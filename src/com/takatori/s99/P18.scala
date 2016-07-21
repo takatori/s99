@@ -1,4 +1,4 @@
-package P18
+package com.takatori.s99
 
 /** P18
   * (**) Extract a slice from a list.
